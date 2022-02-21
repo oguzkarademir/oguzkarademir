@@ -4,6 +4,10 @@
 
 ### Hi there 👋
 
-- ✨ I enjoy software
-- 🔭 I’m currently learning Clouds, especially AWS
-- ✨ I know JS, React, React Native, Python, AWS
+- 🙋🏻 My name is Oguz and I am a Frontend Developer/Cloud Enthusiast
+- 🇹🇷 I am from Turkey and live in Belgium
+- ☁️ I’m currently developing myself on Clouds, especially AWS
+- 🖥 I know JS, React, React Native, Python, AWS
+
+#### __*"The only way to do great work is to love what you do"*__  
+-Steve Jobs-
