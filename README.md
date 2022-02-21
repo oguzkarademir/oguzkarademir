@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🙋🏻 My name is Oguz and I am a Frontend Developer/Cloud Enthusiast
-- 🇹🇷 I am from Turkey and live in Belgium
+- 🇹🇷 I am from Turkey and live in Belgium 🇧🇪
 - ☁️ I’m currently developing myself on Clouds, especially AWS
 - 🖥 I know JS, React, React Native, Python, AWS
 
